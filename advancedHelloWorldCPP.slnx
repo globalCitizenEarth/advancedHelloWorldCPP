@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="advancedHelloWorldCPP.vcxproj" />
+  <Project Path="../../../../../../advancedHelloWorldCPP/advancedHelloWorldCPP.vcxproj" Id="95d52b9f-ba46-4006-a0b3-67c71772a06b" />
 </Solution>
