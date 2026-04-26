@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../advancedHelloWorldCPP/advancedHelloWorldCPP.vcxproj" Id="27faa5d1-465b-4921-b7c3-44e064ca0c86" />
+  <Project Path="HelloWorld.vcxproj" Id="9040f333-f545-48dd-bd47-aedde72c329a">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
