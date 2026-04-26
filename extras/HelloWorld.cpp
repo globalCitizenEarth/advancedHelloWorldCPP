@@ -243,6 +243,7 @@ int main()
     cout << "Hello, World!\n";
     cout << "Hello, World!\n";
     cout << "Enhanced!\n";
-    cout << "End of Program";
+    cout << "End of Program!\n";
+    cout << "\n\n";
     return 0;
 }
